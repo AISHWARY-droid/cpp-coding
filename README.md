@@ -1,2 +1,2 @@
-# cpp-coding
-practice codes in C++
+HI, geeks
+So, in this repo, i would practice c++ codes.
